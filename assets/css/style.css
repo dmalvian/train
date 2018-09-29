@@ -1,0 +1,39 @@
+.title {
+	font-family : 'Lato' sans-serif;
+	font-weight : 600;
+	font-style	: italic;
+	color		: #FFF;
+	text-align	: center;
+}
+
+.blue {
+	background-color	: #3399FF;
+}
+
+.green {
+	background-color	: #009999;
+}
+
+.right {
+	text-align	: right;
+}
+
+.pnl-box {
+	border : 5px solid #009999;
+}
+
+.pnl-title {
+	font-weight : bold;
+}
+
+.footer {
+	margin-top : 10vh;
+	padding : 10px;
+	color	: white;
+	background-color : #000066;
+	vertical-align : middle;
+}
+
+.top {
+	margin-top : 10vh;
+}
